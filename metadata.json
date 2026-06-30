@@ -1,0 +1,6 @@
+{
+  "name": "Youth Opportunities Portal",
+  "description": "Customized interactive database of 100 fully-funded scholarships, fellowships, internships, and grants with zero application fees, optimized for a unique Finance, Economics, and AI background.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
